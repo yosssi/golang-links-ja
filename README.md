@@ -7,4 +7,4 @@
 * [Go言語:ファイルをあつかう単体テストはos.Getwd()でパスを解決 - Qiita](http://qiita.com/suin/items/37befa5cdd436d4f501b)
 * [Go言語のコマンド（goコマンド）のパス表記「...」は「（そのディレクトリ下の）全てのパッケージ」を意味する - Qiita](http://qiita.com/yosssi/items/a748330accbbd96b0cf3)
 * [go-eval - インタプリタ方式でGo言語のコードを実行できるパッケージ - Qiita](http://qiita.com/yosssi/items/9c97004a3ec597d10e95)
-*[Go言語でag(The Silver Searcher)ライクな高速検索ツールをつくった。EUC-JP/Shift-JISも検索できマス。 - Thinking-megane](http://blog.monochromegane.com/blog/2014/01/16/the-platinum-searcher/)
+* [Go言語でag(The Silver Searcher)ライクな高速検索ツールをつくった。EUC-JP/Shift-JISも検索できマス。 - Thinking-megane](http://blog.monochromegane.com/blog/2014/01/16/the-platinum-searcher/)
